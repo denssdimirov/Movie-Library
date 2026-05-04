@@ -1,7 +1,6 @@
 # Movie Library - Личная кинотека
 
-**Автор:** Иван Петров  
-**GitHub:** [github.com/ivanpetrov/movie-library](https://github.com/ivanpetrov/movie-library)
+**Автор:** Денис Сидимиров
 
 ## Описание
 
